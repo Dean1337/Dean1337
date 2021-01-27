@@ -7,7 +7,9 @@
 #                                                                    *Languages and tools*
 
 ### Languages
-  JavaScript, C++ and Python  
+  Studying:   JavaScript 
+
+  Thinking about studying:  C++ and Python  
     
     
 ### Tools
