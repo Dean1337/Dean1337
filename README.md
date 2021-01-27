@@ -1,8 +1,8 @@
 #                                                                    *Dean*
 
-<img align="right" alt="GIF" height="250" width="250"  src="https://github.com/Batata1533/readme/blob/main/gif1.gif" />
+<img align="right" alt="GIF" height="250" width="250"  src="https://github.com/Dean1337/readme/blob/main/gif1.gif" />
 
-<p align="center">Hello, my name is Dean, I'm 15 years old and I'm currently living in São Paulo, Brazil. I'm a programming student and lol player</p>
+<p align="center">Hello, my name is Dean, I'm 15 years old and I'm currently living in São Paulo, Brazil. I'm a programming student</p>
 
 #                                                                    *Languages and tools*
 
@@ -15,9 +15,9 @@
 
 
 
-<img align="right" alt="GIF" height="400" width="800" src="https://github.com/Batata1533/readme/blob/main/city.gif" />
+<img align="right" alt="GIF" height="400" width="800" src="https://github.com/Dean1337/readme/blob/main/city.gif" />
 <br>
-<p align="center"> Quero ir para o inferno, não para o céu. No inferno, gozarei da companhia de papas, reis e príncipes. No céu, só terei por companhia mendigos, monges, eremitas e apóstolos.
+<p align="center"> Cuidado em quem você confia. Lembre-se que o diabo era um anjo.
 </p>
 <br><br>
 
